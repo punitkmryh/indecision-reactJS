@@ -12,7 +12,11 @@
 .big-button:disabled {
     opacity: 0.5;
 }
-
+@media (min-width: $desktop-breakpoint) {
+    .big-button {
+        margin-bottom: $xl-size;
+    }
+}
 // AddOption
 .button {
     background-color: orange;

@@ -1,7 +1,7 @@
 .add-option-error {
   color: $off-white;
   font-style: italic;
-  font-weight:300;
+  font-weight: 300;
   margin: $m-size 0 0 0;
   padding: 0 $m-size;
   text-align: center;
@@ -20,4 +20,14 @@
   flex-grow: 1;
   margin-right: $s-size;
   padding: $s-size;
+}
+
+@media (min-width: $desktop-breakpoint) {
+  .add-option {
+    flex-direction: row;
+  }
+
+  .add-option__input {
+    margin: 0 $s-size 0 0;
+  }
 }
