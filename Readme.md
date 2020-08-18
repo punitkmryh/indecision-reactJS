@@ -2,6 +2,8 @@
 
 ## Application's features:
 
+![app-preview](https://github.com/punitkmryh/indecision-reactJS/blob/master/src/screenshots/indecisionapp.png)
+
 - [ ] Storing locally
   - [ ] Using LifeCycle methods
   - [ ] Tackling empty options array
