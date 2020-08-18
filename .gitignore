@@ -1,0 +1,6 @@
+src/playground
+public/img
+node_modules
+.vscode
+package-lock.json
+/dist
