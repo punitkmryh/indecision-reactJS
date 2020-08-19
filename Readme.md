@@ -1,8 +1,10 @@
 # Getting Started With ReactJS
 
-## Application's features:
+## Preview
 
 ![app-preview](https://github.com/punitkmryh/indecision-reactJS/blob/master/src/screenshots/indecisionapp.png)
+
+## Application's features:
 
 - [ ] Storing locally
   - [ ] Using LifeCycle methods
