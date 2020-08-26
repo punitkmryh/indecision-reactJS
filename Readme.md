@@ -25,14 +25,14 @@
 - [ ] One way Binding
 - [ ] Two way Binding
 
-# How to set up React⚛️, webpack💠 and Babel〽️
+# How to set up React ⚛️, webpack 💠 and Babel 〽️
 
 - [x] how to install and configure webpack
 
   - [x] Source-map Tool and 
 - [x] Webpack-dev-server.
 - [x] how to install and configure Babel
-- [ ] 
+
 - [x] how to install and configure Scss to css
 - [x] how to install React
 - [x] how to include the resulting bundle into an HTML page
@@ -77,7 +77,7 @@ Here webpack will ingest raw React components for producing JavaScript code that
 
 - [x] Importing npm Modules (dependencies)
 
-  > **:warning:Warning:** Always go through documents for Dependecies installation for bash Commands as they get updated with dependency update.
+  > ** :warning:  Warning:** Always go through documents for Dependecies installation for bash Commands as they get updated with dependency update.
 
 - [x] Configuring `webpack.config.js` (for developement and Production)
 
@@ -109,7 +109,7 @@ At this point there is no need to define a configuration file for webpack. Older
 
 In the next section we'll install and configure Babel for transpiling our code.
 
-- 📌[Click here](https://www.valentinog.com/blog/babel/) for dependencies installation for React ⚛️
+- 📌  [Click here](https://www.valentinog.com/blog/babel/) for dependencies installation for React ⚛️
 
 Giving `Entry` point and `output` folder path to save `bundle.js`
 
