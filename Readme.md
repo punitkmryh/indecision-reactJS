@@ -206,7 +206,7 @@ module.exports = {
 
 and update in `package.json` file:
 
-````JSON
+```JSON
     "scripts": {
       "dev-server": "webpack-dev-server --open"
     }
